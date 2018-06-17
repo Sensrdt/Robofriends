@@ -1,0 +1,21 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.TTF') format('TTF');
+}
+
+h1 {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #0ccac4;
+ 
+}
+footer{
+	color: red;
+	background: #D7BDE2;
+	margin-left: 500px;
+	margin-right: 500px;
+	opacity: 0.7;
+
+}
